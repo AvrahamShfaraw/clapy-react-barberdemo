@@ -1,0 +1,281 @@
+.rectangle2.rectangle2 {
+  position: absolute;
+  left: 0;
+  right: 72.3943%;
+  top: 0;
+  bottom: 64.8012%;
+}
+.rectangle3.rectangle3 {
+  position: absolute;
+  left: 36.1971%;
+  right: 36.1971%;
+  top: 0;
+  bottom: 64.8012%;
+}
+.rectangle4.rectangle4 {
+  position: absolute;
+  left: 72.3943%;
+  right: 0%;
+  top: 0;
+  bottom: 64.8012%;
+}
+.rectangle5.rectangle5 {
+  position: absolute;
+  left: 0;
+  right: 72.3943%;
+  top: 55.7279%;
+  bottom: 9.0733%;
+}
+.rectangle6.rectangle6 {
+  position: absolute;
+  left: 36.1971%;
+  right: 36.1971%;
+  top: 55.7279%;
+  bottom: 9.0733%;
+}
+.rectangle7.rectangle7 {
+  position: absolute;
+  left: 72.3943%;
+  right: 0%;
+  top: 55.7279%;
+  bottom: 9.0733%;
+}
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #1a1b22;
+  overflow: hidden;
+}
+.rectangle8 {
+  position: absolute;
+  left: 363.4977px;
+  top: 23.35px;
+  width: 24.5023px;
+  height: 2.8272px;
+  border-radius: 4px;
+  background-color: #c4c4c4;
+}
+.rectangle9 {
+  position: absolute;
+  left: 366.5957px;
+  top: 28.8255px;
+  width: 21.4043px;
+  height: 2.8272px;
+  border-radius: 4px;
+  background-color: #c4c4c4;
+}
+.rectangle10 {
+  position: absolute;
+  left: 371.7373px;
+  top: 34.3011px;
+  width: 16.2627px;
+  height: 2.8272px;
+  border-radius: 4px;
+  background-color: #c4c4c4;
+}
+.frame35 {
+  position: absolute;
+  left: 39.8263px;
+  top: 62.3739px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.group51 {
+  position: relative;
+  width: 250px;
+  height: 319.2828px;
+}
+.newbarber1 {
+  position: absolute;
+  left: 6.5823%;
+  right: 6.5823%;
+  top: 0;
+  bottom: 29.4456%;
+  width: 217.0885px;
+  height: 225.2682px;
+  background-image:/* webpackIgnore: true */ url('assets/newbarber1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 86.2191%;
+  bottom: 0;
+  width: 250px;
+  height: 44px;
+  place-content: space-around;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: 4px;
+  background-color: #0733a4;
+}
+.unnamed {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  white-space: nowrap;
+}
+.group50 {
+  position: relative;
+  width: 348.1738px;
+  height: 261.8774px;
+}
+.unnamed2 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.8494%;
+  right: 77.3434%;
+  top: 37.7806%;
+  bottom: 55.7278%;
+  white-space: nowrap;
+}
+.barberShop {
+  position: absolute;
+  left: 10.301%;
+  right: 82.6385%;
+  top: 9.7274%;
+  bottom: 74.5286%;
+  width: 24.5827px;
+  height: 41.2301px;
+  background-image:/* webpackIgnore: true */ url('assets/barberShop.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed3 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37.6249%;
+  right: 37.6748%;
+  top: 37.7806%;
+  bottom: 55.7278%;
+  white-space: nowrap;
+}
+.cart {
+  position: absolute;
+  left: 43.1953%;
+  right: 43.2452%;
+  top: 2.4814%;
+  bottom: 67.2826%;
+  width: 47.2104px;
+  height: 79.1813px;
+  background-image:/* webpackIgnore: true */ url('assets/cart.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed4 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 76.0011%;
+  right: 3.6068%;
+  top: 37.7806%;
+  bottom: 55.7278%;
+  white-space: nowrap;
+}
+.placeholder {
+  position: absolute;
+  left: 81.2332%;
+  right: 8.4977%;
+  top: 9.7274%;
+  bottom: 75.7255%;
+  width: 35.7542px;
+  height: 38.0956px;
+  background-image:/* webpackIgnore: true */ url('assets/placeholder.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed5 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.7057%;
+  right: 77.1998%;
+  top: 93.5084%;
+  bottom: 0;
+  white-space: nowrap;
+}
+.instagram4 {
+  position: absolute;
+  left: 8.2319%;
+  right: 80.726%;
+  top: 65.9148%;
+  bottom: 19.2602%;
+  width: 38.4455px;
+  height: 38.8235px;
+  background-image:/* webpackIgnore: true */ url('assets/instagram4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed6 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 46.0977%;
+  right: 46.1476%;
+  top: 93.5084%;
+  bottom: 0;
+  white-space: nowrap;
+}
+.whatsapp {
+  position: absolute;
+  left: 44.856%;
+  right: 44.9059%;
+  top: 66.6228%;
+  bottom: 19.9681%;
+  width: 35.6462px;
+  height: 35.1154px;
+  background-image:/* webpackIgnore: true */ url('assets/whatsapp.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed7 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 82.7506%;
+  right: 10.3563%;
+  top: 93.5084%;
+  bottom: 0;
+  white-space: nowrap;
+}
+.whatsapp2 {
+  position: absolute;
+  left: 81.2332%;
+  right: 8.8389%;
+  top: 66.8259%;
+  bottom: 20.1713%;
+  width: 34.5662px;
+  height: 34.0515px;
+  background-image:/* webpackIgnore: true */ url('assets/whatsapp2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

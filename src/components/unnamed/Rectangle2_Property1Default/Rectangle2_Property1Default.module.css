@@ -1,0 +1,18 @@
+.root {
+  position: relative;
+  width: 96.1158px;
+  height: 92.1776px;
+  align-items: flex-start;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
